@@ -1,0 +1,8 @@
+﻿2023-09-20 Pepperoni 450
+2023-09-20 Margarita 400
+2023-09-21 Pepperoni 500
+2023-09-21 FourCheese 600
+2023-09-21 Pepperoni 550
+2023-09-22 Margarita 420
+2023-09-22 FourCheese 700
+2023-09-22 Pepperoni 480
